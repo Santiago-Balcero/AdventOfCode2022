@@ -1,6 +1,8 @@
 f = open("02/input.txt", "r")
 input = []
 
+# Values given by exercise description
+
 # Rock = A or X 1pt
 # Paper = B or Y 2pts
 # Scissors = C or Z 3pts
@@ -14,6 +16,7 @@ input = []
 # Draw = 3pts
 # Lose = 0pts
 
+# Read file with strip to remove "\n"
 for line in f:
     line = line.strip()
     round = [line[0], line[-1]]

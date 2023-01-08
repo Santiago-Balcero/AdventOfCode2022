@@ -1,6 +1,7 @@
 f = open("01/input.txt", "r")
 input = []
 
+# Read file with strip to remove "\n"
 for line in f:
     line = line.strip()
     input.append(int(line)) if line.isdigit() else input.append("")
