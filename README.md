@@ -6,3 +6,5 @@ If you are registered in Advent of Code web most likely you will have a differen
 ### Solutions to days:
 - [1](https://adventofcode.com/2022/day/1)
 - [2](https://adventofcode.com/2022/day/2)
+- [3](https://adventofcode.com/2022/day/3)
+- [4](https://adventofcode.com/2022/day/4)
