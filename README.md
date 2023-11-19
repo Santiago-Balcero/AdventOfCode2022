@@ -1,7 +1,7 @@
 # Advent of code 2022
-My solutions to [Advent of Code 2022](https://adventofcode.com/2022)  
-Used Python 3.10  
-If you are registered in Advent of Code web most likely you will have a different input.  
+My solutions to [Advent of Code 2022](https://adventofcode.com/2022)
+Used Python 3.10 and Go 1.20
+If you are registered in Advent of Code web most likely you will have a different input.
 
 ### Solutions to days:
 - [1](https://adventofcode.com/2022/day/1)
@@ -10,3 +10,5 @@ If you are registered in Advent of Code web most likely you will have a differen
 - [4](https://adventofcode.com/2022/day/4)
 - [5](https://adventofcode.com/2022/day/5)
 - [6](https://adventofcode.com/2022/day/6)
+- [7](https://adventofcode.com/2022/day/7)
+- [8](https://adventofcode.com/2022/day/8)
